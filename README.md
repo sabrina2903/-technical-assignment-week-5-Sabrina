@@ -6,7 +6,7 @@ Menggunakan sebuah sensor selain sensor ultrasonic HC-SR04, buatlah hal-hal beri
 ![179359093-4e69fe10-f958-49a1-9962-4df6982a595d](https://user-images.githubusercontent.com/108038727/181878731-99a7ddb1-3ebd-4e47-b395-66f345a93ce3.jpg)
 
 2. Script sensor.py dan sebuah fungsi untuk mengambil data dari sensor tersebut
-https://github.com/sabrina2903/-technical-assignment-week-5-Sabrina/blob/main/Soal%20Nomor%202
+
    
 3. Sebuah script utama main.py yang terdiri dari sebuah logic sederhana yang menjawab sebuah use case sederhana ( jelaskan use case tersebut dalam MD files! )
 
